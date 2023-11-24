@@ -27,4 +27,9 @@
         android:name="com.abril.myapplication.ui.PlayWithTextViewFragment"
         android:label="PlayWithTextViewFragment"
         tools:layout="@layout/fragment_play_with_text_view"/>
+    <fragment
+        android:id="@+id/buttonListFragment"
+        android:name="com.abril.myapplication.ui.ButtonListFragment"
+        android:label="Button List"
+        tools:layout="@layout/fragment_button_list" />
 </navigation>
